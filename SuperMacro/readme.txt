@@ -2,6 +2,9 @@ TODO
 update readme on how to use "Super" macros
 support DiscordBars, etc.
 
+3.17
+Added TheoryCraft tooltips compatibility for macros (Blizzard bars, Bartender2, DAB, Bongos)
+
 3.16a 
 Main Menu icon edit
 bongos support improved
