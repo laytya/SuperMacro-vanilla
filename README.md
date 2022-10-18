@@ -4,7 +4,10 @@ TODO
 update readme on how to use "Super" macros
 
 3.17
-Added TheoryCraft tooltips compatibility for macros (Blizzard bars, Bartender2, DAB, Bongos)
+Added TheoryCraft tooltips compatibility for macros (Blizzard bars, Bartender2, DAB, Bongos)\
+
+![TheoryCraftOnMacros](https://user-images.githubusercontent.com/20452393/196478518-f8022b0c-95ab-43a5-9787-db1763b97089.PNG)
+
 
 3.16a 
 Main Menu icon edit
